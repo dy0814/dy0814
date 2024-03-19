@@ -1,15 +1,16 @@
 <img src="https://github.com/dy0814/dy0814/assets/163224326/a70c9511-46e5-4c54-aeac-df5410f6af9e"/>
-- 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
-- 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을;;
 <br>
-
+<br>
+<br>
 **My Project :**  
 - Project 01 : 
 - Project 02 :
 - Project 03 :
 - Project 04 :
 <br>
-
+- 😉 프로젝트를 확인해주세요
+- 💬 마음에 드셨다면 연락주세요 - endus1512@naver.com
+<br>
 
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
